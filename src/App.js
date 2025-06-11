@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 
 // Removed dynamic script creation, assuming these are in public/index.html
 // as recommended for cleaner App.js and proper loading.
